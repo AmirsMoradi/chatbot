@@ -1,1 +1,1 @@
-# chatbot
+A chatbot has been created in this program and you can ask it questions about computers. I managed to use a scrap for it. It works in some cases and doesn't work in others. I'm trying to fix it and write a healthy chatbot.
