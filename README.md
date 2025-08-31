@@ -37,3 +37,8 @@ Installing Prerequisites
 All required libraries are in the requirements.txt file. To install them, simply run the following command:
 
 pip install -r requirements.txt
+
+
+License
+
+This project is released under the MIT License.
