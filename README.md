@@ -1,5 +1,39 @@
-A chatbot has been created in this program and you can ask it questions about computers. I managed to use a scrap for it. It works in some cases and doesn't work in others. I'm trying to fix it and write a healthy chatbot.
-united24 is updated
-you can run it in colab
-the link of view working 1 week and after 1 week It will expire after a week and I will post another link.
-It can also be run on any other programming environment, but you must install the required libraries.
+This project is a simple chatbot written in Python and Jupyter Notebook.
+The chatbot can answer simple questions about computers and programming.
+It currently works well in some cases, and is still being developed and improved.
+The link to create a view expires every week and I will renew it.
+
+Features
+
+Answers to basic questions about computers and programming
+
+Uses scraping to get information
+
+Can be run on Google Colab or locally
+
+Simple and extensible structure
+Installation
+ Cloning the repository
+git clone https://github.com/AmirsMoradi/chatbot.git
+cd chatbot
+
+
+
+Future plans
+
+Improve accuracy of answers
+
+Add support for more topics
+
+Enhance data sources and eliminate errors
+
+Create a web UI or Telegram bot
+
+
+
+
+Installing Prerequisites
+
+All required libraries are in the requirements.txt file. To install them, simply run the following command:
+
+pip install -r requirements.txt
